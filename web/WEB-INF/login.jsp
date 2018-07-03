@@ -1,18 +1,18 @@
 <%--
   Created by IntelliJ IDEA.
   User: 17308
-  Date: 2018/7/2
-  Time: 23:25
+  Date: 2018/7/3
+  Time: 12:03
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>首页</title>
-  </head>
-  <body>
-  <form action="/FirstPage">
-    <input name="submit" type="submit" value="登录">
-  </form>
-  </body>
+<head>
+    <title>Title</title>
+</head>
+<body>
+<form action="/login">
+
+</form>
+</body>
 </html>
